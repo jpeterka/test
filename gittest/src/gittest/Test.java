@@ -1,7 +1,7 @@
 package gittest;
 
 /**
- * Basic class 
+ * Basic class implementation 
  * @author jpeterka
  *
  */
